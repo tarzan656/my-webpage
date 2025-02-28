@@ -630,7 +630,7 @@ a:focus {
 .experience .exp-col h4 {
     font-size: 14px;
     font-weight: 400;
-    font-style: italic;
+    /*font-style: italic;*/
     margin-bottom: 5px;
 }
 
@@ -677,7 +677,7 @@ a:focus {
 .experience .exp-col h4 {
     font-size: 14px;
     font-weight: 400;
-    font-style: italic;
+    /*font-style: italic;*/
     margin-bottom: 5px;
 }
 
